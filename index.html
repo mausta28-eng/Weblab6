@@ -8,8 +8,56 @@
     <script src="Weblab6.js" defer></script>
 </head>
 <body>
-    <h1 id="judul">Latihan DOM</h1>
-    <p id="pesan">Belum ada tindakan.</p>
+    <h1 id="judul">Belajar JavaScript DOM</h1>
+    <p id="pesan">Konten berhasil diubah oleh JavaScript.</p>
     <button id="tombolAksi" type="button">Klik Saya</button>
+
+    <hr>
+
+    <h2>Latihan 2 - Event Klik</h2>
+    <p id="hasilKlik">Belum ada tombol yang diklik.</p>
+    <button id="tombolKlik" type="button">Tekan Tombol</button>
+
+    <hr>
+
+    <h2>Latihan 3 - Mengubah Kelas dan Gaya CSS</h2>
+    <p id="teksGaya">Ini adalah contoh teks yang akan berubah tampilannya.</p>
+    <button id="tombolGaya" type="button">Ubah Gaya</button>
+
+    <hr>
+
+    <h2>Latihan 4 - Event Input dan Penghitung Karakter</h2>
+    <label for="namaInput">Masukkan nama:</label>
+    <input type="text" id="namaInput" maxlength="40">
+
+    <p>Jumlah karakter: <span id="jumlahKarakter">0</span></p>
+    
+    <hr>
+
+    <h2>Latihan 5 - Validasi Form Pendaftaran</h2>
+
+    <form id="formPendaftaran">
+        <label for="namaLengkap">Nama Lengkap:</label><br>
+        <input type="text" id="namaLengkap"><br><br>
+        <label for="email">Email:</label><br>
+        <input type="text" id="email"><br><br>
+        <label for="usia">Usia:</label><br>
+        <input type="number" id="usia"><br><br>
+        <button type="submit">Daftar</button>
+    </form>
+
+        <p id="pesanValidasi"></p>
+    
+    <hr>
+
+    <section>
+        <h2>Latihan 6 - Daftar Tugas</h2>
+
+        <label for="inputTugas">Tugas baru</label><br>
+        <input id="inputTugas" type="text">
+        <button id="tambahTugas" type="button">Tambah</button>
+        <p id="pesanTugas" aria-live="polite"></p>
+        <ul id="daftarTugas"></ul>
+    </section>
 </body>
 </html>
