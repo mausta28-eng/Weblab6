@@ -8,22 +8,22 @@ NIM : 312510012
 
 
 ### Mengubah teks dengan DOM
-![Gambar 1](Screenshot6/Mengubahhh%20teks%20dengan%20DOM.png)
+![Gambar 1](screenshot6/Mengubahhh%20teks%20dengan%20DOM.png)
 
 ### Event click
-![Gambar 2](Screenshot6/Event_click.png)
+![Gambar 2](screenshot6/Event_click.png)
 
 ### Mengubah kelas dan gaya CSS
-![Gambar 3](Screenshot6/Mengubah_kelas_dan_gaya_CSS.png)
+![Gambar 3](screenshot6/Mengubah_kelas_dan_gaya_CSS.png)
 
 ### Event input dan penghitung karakter
-![Gambar 4](Screenshot6/Event_input_dan_penghitung_karakter.png)
+![Gambar 4](screenshot6/Event_input_dan_penghitung_karakter.png)
 
 ### Validasi form pendaftaran
-![Gambar 5](Screenshot6/Validasi_form_pendaftaran.png)
+![Gambar 5](screenshot6/Validasi_form_pendaftaran.png)
 
 ### Daftar tugas sedrhana(To-do List)
-![Gambar 6](Screenshot6/Daftar_tugas_sedrhana(To-do_List).png)
+![Gambar 6](screenshot6/Daftar_tugas_sedrhana(To-do_List).png)
 
 ### Jawaban pertanyaan 
 
